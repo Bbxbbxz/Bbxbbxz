@@ -8,7 +8,7 @@ module.exports = {
   description: "这个杀手不太冷",
   head: [
     ['meta', { name: "baidu_union_verify", content: "a0036ccf0b657813fb236f80f376c429" }],
-    ["link", { rel: "icon", href: "/images/favicon.svg" }],
+    ["link", { rel: "icon", href: "./images/favicon.svg" }],
     ['meta', { name: 'Keywords', content: '刘先生,刘先生的主页,bookbook,BookBook,bookbook.cc,BookBook.cc' }],
     // 作者
     ['meta', { name: 'author', content: '刘先生,刘先生的主页,bookbook,BookBook,bookbook.cc,BookBook.cc' }],
